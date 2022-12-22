@@ -1,0 +1,54 @@
+.bear{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: flex-end;
+    opacity: 1;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+.fox{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: flex-end;
+    opacity: 1;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+.play{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: flex-end;
+    opacity: 1;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+.gems{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: flex-end;
+    opacity: 1;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+.go{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: flex-end;
+    opacity: 1;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+.photo{
+    align-items: flex-start;
+    width: 150px;
+  max-width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  border-radius: 75px;
+
+}
